@@ -1,8 +1,8 @@
-# ClusterFactory Community Edition
+# ClusterFactory DeepSquare Edition
 
 ## Overview
 
-This repository is where [SquareFactory](https://www.squarefactory.io) develops ClusterFactory CE, the Kubernetes-based infrastructure orchestrator together with the community. ClusterFactory brings together best-in-class solutions from the HPC, Cloud, and DevOps industries to manage a cluster in a declarative way in combination with the GitOps practice.
+ClusterFactory CE is a Kubernetes-based infrastructure orchestrator. ClusterFactory brings together best-in-class solutions from the HPC, Cloud, and DevOps industries to manage a cluster in a declarative way in combination with the GitOps practice.
 
 ## Key features
 
